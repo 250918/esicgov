@@ -1,0 +1,2 @@
+[30-Jan-2020 23:13:53 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/narandiba/public_html/esic/app/Providers/AppServiceProvider.php on line 7
+[30-Jan-2020 23:13:58 America/Sao_Paulo] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/narandiba/public_html/esic/app/Providers/AppServiceProvider.php on line 7

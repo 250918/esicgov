@@ -1,0 +1,8 @@
+[30-Jan-2020 22:56:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/narandiba/public_html/esic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/narandiba/public_html/esic/bootstrap/app.php on line 14
+[30-Jan-2020 22:58:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/narandiba/public_html/esic/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/narandiba/public_html/esic/bootstrap/app.php on line 14
