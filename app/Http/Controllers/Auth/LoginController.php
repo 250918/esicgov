@@ -36,6 +36,6 @@ class LoginController extends Controller
     { 
         if (!isEmpty($this->middleware('guest'))){
         return null;
-        }
+        }else{}
     }
 }
