@@ -34,7 +34,7 @@ class LoginController extends Controller
      */
     public function __construct()
     { 
-        if ($this->middleware('guest')) {
+        if (!isEmpty($this->middleware('guest'))) {
             $this->middleware('guest')->except('logout');
         }
         $this->middleware('guest')->except('logout');
